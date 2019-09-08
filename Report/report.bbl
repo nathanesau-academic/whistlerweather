@@ -1,0 +1,34 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Data and code}}{%
+\APACcitebtitle {Data and code}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Github}
+\APACinsertmetastar {%
+Github}%
+\APACrefbtitle {Data and code.} {Data and code.}
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+\APAChowpublished {\url{https://github.com/stat300/whistlerweather}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Whistler Blackcomb}}{%
+\APACcitebtitle {Whistler Blackcomb}}{%
+{\protect \APACyear {2015}}%
+}]{%
+WhistlerBlackcomb}
+\APACinsertmetastar {%
+WhistlerBlackcomb}%
+\APACrefbtitle {Whistler Blackcomb.} {Whistler blackcomb.}
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+\APAChowpublished
+  {\url{http://ww1.whistlerblackcomb.com/media/stats/mountains/}}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

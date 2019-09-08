@@ -1,2 +1,10 @@
 # whistlerweather
-Group project for Stat 300W at Simon Fraser University in Fall 2015
+Analysis of whistler weather data from 2006 to 2014.
+
+# Description of files
+
+* Report: contains report *report.pdf*
+* Slides: contains presentation slides *slides.pdf*
+* R: contains R code used in analysis
+* Data: contains data. Additional information about climate data can be found [here](http://climate.weather.gc.ca/)
+
